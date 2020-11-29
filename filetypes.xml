@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="VS_DR_3646" type="PLAIN_TEXT" />
+      <mapping pattern="GetOneOpsHostNames.cmd" type="PLAIN_TEXT" />
+      <mapping pattern="Test.java" type="PLAIN_TEXT" />
+      <mapping pattern="mvnexec.cmd" type="PLAIN_TEXT" />
+      <mapping pattern="WynkApplication.java" type="PLAIN_TEXT" />
+      <mapping pattern="processfoci2oms_samedays2h_foci_fms.xml" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="txt1545889332671_vs_3646" type="PLAIN_TEXT" />
+      <mapping pattern="pushcoretest.sql" type="SQL" />
+      <mapping pattern="processfoci2oms samedays2h foci fms" type="XML" />
+      <mapping pattern="processfoci2oms samedays2h foci_fms" type="XML" />
+      <mapping pattern="S2s-readyforpickup payloads" type="XML" />
+      <mapping ext="factories" type="YAML" />
+      <mapping pattern="pushcoretest" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>

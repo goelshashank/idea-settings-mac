@@ -1,0 +1,86 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Shelve">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+  <action id="ChangesView.ShelveSilently" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Debugger.PopFrame">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorContextInfo" />
+  <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl numpad6" />
+    <keyboard-shortcut first-keystroke="ctrl 6" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark6" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="KotlinShellExecute" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Maven_939fabe9mOASIS4b684c0bclean">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ViewSource" />
+</keymap>
