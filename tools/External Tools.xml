@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="Deploy code and start Jboss" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="C:\Users\s0g00va\IdeaProjects\mOASIS\deploy_code__start_server.cmd" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="C:/Users/s0g00va/IdeaProjects/mOASIS" />
-    </exec>
-  </tool>
-</toolSet>
