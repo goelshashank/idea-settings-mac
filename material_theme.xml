@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="5294e2" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="userId" value="-1e1840b3:181e40454c7:-8000" />
+    <option name="version" value="7.9.0" />
+  </component>
+</application>

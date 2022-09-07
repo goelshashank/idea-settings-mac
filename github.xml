@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="716d64d4-34f7-41a7-a21d-4c13413d045f" name="goelshashank">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="HOST" value="gecgithub01.walmart.com" />
+    <option name="AUTH_TYPE" value="TOKEN" />
+  </component>
+</application>

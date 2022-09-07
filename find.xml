@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*Pangaea*.xml</mask>
+    <mask>EmailGenera*.java</mask>
+    <mask>*Email*Test*.java</mask>
+    <mask>*YFS*.xml</mask>
+    <mask>*dozer*.xml</mask>
+    <mask>*pom*.xml</mask>
+    <mask>*Dozer*.xml</mask>
+    <mask>*Line*.xml</mask>
+    <mask>*HEADER*.xml</mask>
+    <mask>*orderList*.xml</mask>
+    <mask>*getOrderList*.xml</mask>
+    <mask>*properties</mask>
+    <mask>*FMS*.java</mask>
+    <mask>*.XML</mask>
+    <mask>*.properties</mask>
+    <mask>*.json</mask>
+    <mask>pom.xml</mask>
+    <mask>*Kafka*.java</mask>
+    <mask>*.yml</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*Dao*.java</mask>
+    <mask>*Rep*.java</mask>
+    <mask>*Controller*.java</mask>
+  </component>
+</application>
